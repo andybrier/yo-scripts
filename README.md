@@ -1,2 +1,4 @@
 # yo-scripts
-yoho scripts 
+
+
+some scripts for `aws lambda` or `qcloud servless`
